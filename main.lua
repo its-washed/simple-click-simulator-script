@@ -1,7 +1,5 @@
-local WindUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Footagesus/WindUI/main/dist/main.lua"))()
-
 local Window = WindUI:CreateWindow({
-    Title = "Auto Farm",
+    Title = "made by its_washed",
     Folder = "AutoFarm",
     Icon = "solar:folder-2-bold-duotone",
 })
